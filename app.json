@@ -5,6 +5,7 @@
     "repository": "https://github.com/owen2345/Camaleon-CMS-Sample",
     "logo": "http://camaleon.tuzitio.com/media/132/logo2.png",
     "success_url": "/",
+    "stack": "heroku-16",
     "keywords": [
         "ruby on rails",
         "wordpress",
